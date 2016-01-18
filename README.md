@@ -16,3 +16,8 @@ this app.
 - Display results from Java
 
 PS: This project is developed in **Android Studio**. Make sure you have Android studio installed in your system. 
+
+## Screenshots
+
+(https://github.com/Anand-M-P/BMI-screenshot/blob/master/device-2016-01-16-221133.png)
+(https://github.com/Anand-M-P/BMI-screenshot/blob/master/device-2016-01-16-221321.png)
